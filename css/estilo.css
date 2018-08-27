@@ -1,0 +1,19 @@
+#caja1
+background-color: red;
+
+#caja2, #caja3, #caja4, #caja1{
+
+width:  200px;
+height: 300px;
+
+}
+#caja2{
+	background-color: orange;
+	display:inline-block;
+}
+#caja3{
+	background-color: green;
+}
+#caja4{
+	background-color:yellow ;
+}
